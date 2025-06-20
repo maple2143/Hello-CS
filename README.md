@@ -8,4 +8,6 @@
 
 ### Wait!
 - The story is not **complete**!
-- Can you write an [end](https://github.com/maple2143/Hello-CS/tree/main/GMyhf%E7%9A%84%E6%97%A0%E7%BB%88%E5%A5%87%E8%AF%AD) for me?
+- 故事还没结束！’
+- Can you write an [end](https://github.com/maple2143/Hello-CS/blob/main/GMyhf%E7%9A%84%E6%97%A0%E7%BB%88%E5%A5%87%E8%AF%AD/%E4%BB%A3%E7%A0%81%E7%86%94%E7%82%89.md) for me?
+- 你可以为我写一个结局吗？
